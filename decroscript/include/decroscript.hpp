@@ -1,0 +1,3 @@
+namespace DecroScript {
+    void printHelloWorld();
+}
